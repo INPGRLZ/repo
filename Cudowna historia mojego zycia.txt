@@ -1,4 +1,7 @@
 urodzilem sie
+<<<<<<< HEAD
 tralalalaiedys umre
+=======
+musze jesc jeszcze
+>>>>>>> b606a396dcba7682cfcdea08c5a0b9e53cdbbed4
 
-jhdfgdfg 
