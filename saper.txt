@@ -1,5 +1,5 @@
-{$N+}
-program Saper;Saperpsuje
+{$N+}asdasd;
+program Saper;
 
 
 
