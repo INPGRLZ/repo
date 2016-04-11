@@ -1,4 +1,4 @@
-{$N+}
+{$N+}asdasd;
 program Saper;
 
 
